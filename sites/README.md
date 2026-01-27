@@ -1,7 +1,10 @@
 useful sites
+- https://github.com/danielmiessler/SecLists
 - https://github.com/fortra/impacket
 - https://github.com/BlackArch/webshells.git
+- https://github.com/peass-ng/PEASS-ng/tree/master
 - [Guide to windows malware development](https://medium.com/@s12deff/windows-malware-development-roadmap-9a66ab8b82dd)
+
 
 useful extension
 - https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=ko
