@@ -17,3 +17,7 @@ useful commands
 - https://medium.com/@kanishks772/10-grep-commands-thatll-make-you-feel-like-a-linux-wizard-3f563f0317bb
 - https://medium.verylazytech.com/40-bash-one-liners-every-hacker-should-know-master-essential-command-line-skills-for-pentesting-01c32fb29eea
 - [Regex](https://zerodayhacker.com/basic-or-extended-regex/)
+
+helpful sites
+- https://portswigger.net/web-security/essential-skills
+- 
