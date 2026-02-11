@@ -20,7 +20,8 @@ useful commands
 
 helpful sites
 - https://portswigger.net/web-security/essential-skills
-- https://portswigger.net/web-security/all-labs 
+- https://portswigger.net/web-security/all-labs
+- https://github.com/swisskyrepo/PayloadsAllTheThings
 - CORS
   - https://www.youtube.com/watch?v=t5FBwq-kudw
   - https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties
