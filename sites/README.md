@@ -25,4 +25,4 @@ helpful sites
 - CORS
   - https://www.youtube.com/watch?v=t5FBwq-kudw
   - https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties
-
+- https://pwn.college/software-exploitation/
