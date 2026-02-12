@@ -1,10 +1,10 @@
-useful sites
+useful tools
 - https://github.com/danielmiessler/SecLists
 - https://github.com/fortra/impacket
 - https://github.com/BlackArch/webshells.git
 - https://github.com/peass-ng/PEASS-ng/tree/master
 - https://github.com/sqlmapproject/sqlmap
-- [Guide to windows malware development](https://medium.com/@s12deff/windows-malware-development-roadmap-9a66ab8b82dd)
+
 
 
 useful extension
@@ -18,7 +18,8 @@ useful commands
 - https://medium.verylazytech.com/40-bash-one-liners-every-hacker-should-know-master-essential-command-line-skills-for-pentesting-01c32fb29eea
 - [Regex](https://zerodayhacker.com/basic-or-extended-regex/)
 
-helpful sites
+
+useful sites
 - https://portswigger.net/web-security/essential-skills
 - https://portswigger.net/web-security/all-labs
 - https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -26,3 +27,5 @@ helpful sites
   - https://www.youtube.com/watch?v=t5FBwq-kudw
   - https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties
 - https://pwn.college/software-exploitation/
+- [hacktricks](https://book.hacktricks.wiki/en/index.html)
+- [Guide to windows malware development](https://medium.com/@s12deff/windows-malware-development-roadmap-9a66ab8b82dd)
