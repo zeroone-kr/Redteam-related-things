@@ -30,4 +30,5 @@ useful sites
 - [hacktricks](https://book.hacktricks.wiki/en/index.html)
 - [Guide to windows malware development](https://medium.com/@s12deff/windows-malware-development-roadmap-9a66ab8b82dd)
 - [hacking cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
+- [js deobfuscation](https://thanhle.io.vn/de4js/)
 - [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
