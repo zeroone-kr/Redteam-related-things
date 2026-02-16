@@ -32,3 +32,5 @@ useful sites
 - [hacking cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
 - [js deobfuscation](https://thanhle.io.vn/de4js/)
 - [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+- https://github.com/seriotonctf/HackTheBox-AD-Machines
+
