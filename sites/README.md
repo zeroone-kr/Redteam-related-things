@@ -33,4 +33,5 @@ useful sites
 - [js deobfuscation](https://thanhle.io.vn/de4js/)
 - [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 - https://github.com/seriotonctf/HackTheBox-AD-Machines
+- [How to test web security - workflow](https://portswigger.net/burp/documentation/desktop/testing-workflow)
 
