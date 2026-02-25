@@ -34,4 +34,5 @@ useful sites
 - [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 - https://github.com/seriotonctf/HackTheBox-AD-Machines
 - [How to test web security - workflow](https://portswigger.net/burp/documentation/desktop/testing-workflow)
+- [Introduction to GraphQL Attacks](https://youtu.be/Og0k952EsOo?si=Th8qkiAyWK99_QjK)
 
