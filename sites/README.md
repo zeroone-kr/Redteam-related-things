@@ -26,6 +26,8 @@ useful sites
 - CORS
   - https://www.youtube.com/watch?v=t5FBwq-kudw
   - https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties
+- XSS
+  - [XSS cheatsheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 - https://pwn.college/software-exploitation/
 - [hacktricks](https://book.hacktricks.wiki/en/index.html)
 - [Guide to windows malware development](https://medium.com/@s12deff/windows-malware-development-roadmap-9a66ab8b82dd)
