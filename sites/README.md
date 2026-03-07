@@ -43,4 +43,4 @@ useful sites
 Windoes Redteaming
 - https://academy.hackthebox.com/app/module/25
 - https://academy.hackthebox.com/app/module/74
-
+- https://www.hackthebox.com/blog/what-is-kerberos-authentication#mcetoc_1hf6mcl5b4tob
