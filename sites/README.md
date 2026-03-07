@@ -38,3 +38,9 @@ useful sites
 - [How to test web security - workflow](https://portswigger.net/burp/documentation/desktop/testing-workflow)
 - [Introduction to GraphQL Attacks](https://youtu.be/Og0k952EsOo?si=Th8qkiAyWK99_QjK)
 
+
+
+Windoes Redteaming
+- https://academy.hackthebox.com/app/module/25
+- https://academy.hackthebox.com/app/module/74
+
