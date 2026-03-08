@@ -25,7 +25,7 @@
 
 
 - Linux
-  - https://labs.hackthebox.com/achievement/machine/2721079/547
+  - [TwoMillion] https://labs.hackthebox.com/achievement/machine/2721079/547
 
 - Windows
-  - https://labs.hackthebox.com/achievement/machine/2721079/212
+  - [Forest] https://labs.hackthebox.com/achievement/machine/2721079/212
