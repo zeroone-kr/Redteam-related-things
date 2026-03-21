@@ -6,7 +6,6 @@ useful tools
 - https://github.com/sqlmapproject/sqlmap
 
 
-
 useful extension
 - https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=ko
 - https://medium.com/@cuncis/10-popular-chrome-extensions-for-penetration-testing-and-red-teaming-2e1c44019d07
@@ -45,3 +44,13 @@ Windoes Redteaming
 - https://academy.hackthebox.com/app/module/74
 - https://www.hackthebox.com/blog/what-is-kerberos-authentication#mcetoc_1hf6mcl5b4tob
 - [bloodhound](https://github.com/SpecterOps/BloodHound)
+
+
+Mobile Hacking
+- https://portswigger.net/burp/documentation/desktop/mobile
+
+Hackk the box
+- https://www.ibrahimisiaqbolaji.com/
+
+
+
