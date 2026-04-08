@@ -18,7 +18,7 @@ useful commands
 - [Regex](https://zerodayhacker.com/basic-or-extended-regex/)
 
 
-useful sites
+Web Security
 - https://portswigger.net/web-security/essential-skills
 - https://portswigger.net/web-security/all-labs
 - https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -36,7 +36,16 @@ useful sites
 - https://github.com/seriotonctf/HackTheBox-AD-Machines
 - [How to test web security - workflow](https://portswigger.net/burp/documentation/desktop/testing-workflow)
 - [Introduction to GraphQL Attacks](https://youtu.be/Og0k952EsOo?si=Th8qkiAyWK99_QjK)
+- Unicode Injection
+  - https://appcheck-ng.com/unicode-normalization-vulnerabilities-the-special-k-polyglot/
+  - 
 
+
+Mobile Hacking
+- https://portswigger.net/burp/documentation/desktop/mobile
+
+Hackk the box
+- https://www.ibrahimisiaqbolaji.com/
 
 
 Windoes Redteaming
@@ -46,11 +55,7 @@ Windoes Redteaming
 - [bloodhound](https://github.com/SpecterOps/BloodHound)
 
 
-Mobile Hacking
-- https://portswigger.net/burp/documentation/desktop/mobile
 
-Hackk the box
-- https://www.ibrahimisiaqbolaji.com/
 
 
 
